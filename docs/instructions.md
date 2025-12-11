@@ -18,7 +18,13 @@ Make a new directory called /data and add the csv there
 ## Running Part 1
 
 ```bash
-jupyter notebook eda_part1.ipynb
+jupyter notebook notebooks/eda_part1.ipynb
+```
+
+## Running Part 3
+
+```bash
+jupyter notebook notebooks/viz_part3.ipynb
 ```
 
 ## Notes

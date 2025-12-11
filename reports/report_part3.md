@@ -2,7 +2,7 @@
 
 ## Visualizations
 
-All visualizations are implemented in `viz_part3.ipynb` - a single Jupyter notebook containing code and outputs for all three visualizations.
+All visualizations are implemented in `notebooks/viz_part3.ipynb` - a single Jupyter notebook containing code and outputs for all three visualizations.
 
 ### Viz1: Interactive Temporal Crime Patterns Heatmap
 **Implementation**: Matplotlib heatmap with ipywidgets dropdown filter  
@@ -111,8 +111,8 @@ All visualizations are implemented in `viz_part3.ipynb` - a single Jupyter noteb
 
 All visualizations can be reproduced by:
 1. Installing dependencies: `pip install -r requirements.txt`
-2. Opening `viz_part3.ipynb` in Jupyter Notebook or JupyterLab
+2. Opening `notebooks/viz_part3.ipynb` in Jupyter Notebook or JupyterLab
 3. Running all cells (Cell → Run All)
 
-The notebook contains all code and outputs in one file. For static versions, see `viz/` directory.
+The notebook contains all code and outputs in one file. Generated visualizations are saved to `outputs/` directory.
 

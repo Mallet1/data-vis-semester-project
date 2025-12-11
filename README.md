@@ -8,14 +8,15 @@ Data visualization project analyzing Chicago crime patterns (2024 data).
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook viz_part3.ipynb
+jupyter notebook notebooks/viz_part3.ipynb
 ```
 
 ## Deliverables
 
-- **Part 1**: `eda_part1.ipynb`, `report_part1.md` - Data exploration
-- **Part 2**: `report_part2.md` - Design and sketches
-- **Part 3**: `viz_part3.ipynb`, `report_part3.md` - Three visualizations (interactive heatmap, small multiples, geographic map)
+- **Part 1**: `notebooks/eda_part1.ipynb`, `reports/report_part1.md` - Data exploration
+- **Part 2**: `reports/report_part2.md` - Design and sketches
+- **Part 3**: `notebooks/viz_part3.ipynb`, `reports/report_part3.md` - Three visualizations (interactive heatmap, small multiples, geographic map)
+- **Part 5**: `reports/report_part5.md` - Improvements based on feedback
 
-See `instructions.md` for detailed setup.
+See `docs/instructions.md` for detailed setup.
 
