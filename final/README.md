@@ -65,7 +65,7 @@ If the data file is missing:
 
 ## Environment Requirements
 
-- Python 3.x
+- Python 3.x (tested on Python 3.9.18)
 - Jupyter Notebook
 - Dependencies listed in `../requirements.txt`:
   - pandas >= 2.0.0
